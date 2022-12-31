@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/WarehouseWreckage2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/StarterContent/Maps/Minimal_Default.umap",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/BP_Projectile.uasset",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/StarterContent/Maps/Untitled.umap",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/IndustryPropsPack6/Maps/Untitled.umap",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/MainMap.umap",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/Untitled.umap",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/StarterContent/Props/MaterialSphere.uasset",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/StarterContent/Shapes/Shape_Cone.uasset",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"E:/Unreal Projects/WarehouseWreckage2/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}
